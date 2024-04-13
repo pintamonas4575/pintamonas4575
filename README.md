@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m @pintamonas4575
-- 👀 I’m interested in any computing knowledge, databases, AI, programming...
+- 👀 I’m interested in any computer knowledge, databases, AI, programming...
 - 🌱 I’m currently starting to use Github for managing my projects.
 - 💞️ I’m looking to collaborate on any project with other people.
 - 📫 How to reach me: alejandro.embi@gmail.com
