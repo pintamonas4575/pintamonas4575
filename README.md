@@ -1,7 +1,6 @@
-### Hi there 👋
+### ¡¡¡ Hi there !!! <img src="assets/hugging-face.gif" alt="Animated GIF" width="20" height="20">
 
-
-- 👋 Hi, I’m @pintamonas4575
+- 👋 Hi, I’m Alejandro Mendoza, also known as @pintamonas4575
 - 👀 I’m interested in any computer knowledge, databases, AI, programming...
 - 🌱 I’m currently starting to use Github for managing my projects.
 - 💞️ I’m looking to collaborate on any project with other people.
